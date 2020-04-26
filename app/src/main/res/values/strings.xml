@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">HotelApps</string>
+    <string-array name="title">
+        <item> Novus Giri Resort and Spa</item>
+        <item> Pesona Alam Resort and Spa</item>
+        <item> Le Eminence Puncak Hotel Convention and Resort</item>
+        <item> Puncak Pass Resort</item>
+        <item> Palace Hotel</item>
+        <item> Alfa Resort Hotel and Conference</item>
+        <item> The Grand Hill Resort-Hotel</item>
+        <item> Citra Cikopo Hotel</item>
+        <item> Hotel Ariandri Puncak</item>
+        <item> Zuri Resort Cipanas</item>
+    </string-array>
+
+    <string-array name="place">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>pokoknya novus</item>
+        <item>pokoknya alam resort</item>
+        <item>pokoknya le emience</item>
+        <item>pokoknya puncak </item>
+        <item>palace palacean</item>
+        <item>bukan alfamart</item>
+        <item>grand hill keren bgt woy</item>
+        <item>citra cikopo seperti nama artis</item>
+        <item>ariandri adalah guru sd ku</item>
+        <item>zuri resort pokoknya dah</item>
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/novus</item>
+        <item>@drawable/pesona_alam</item>
+        <item>@drawable/le_eminence</item>
+        <item>@drawable/puncak_pass</item>
+        <item>@drawable/palace_hotel</item>
+        <item>@drawable/alfa_resort</item>
+        <item>@drawable/grand_hill</item>
+        <item>@drawable/citra_cikopo</item>
+        <item>@drawable/ariandri</item>
+        <item>@drawable/zuri</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
